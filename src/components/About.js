@@ -5,12 +5,30 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Aditya.
-            <br className="hidden lg:inline-block" /> I'm a Backend Developer.
+            <br className="hidden lg:inline-block " />{" "}
+            <div className="animate-typing overflow-hidden whitespace-nowrap">
+              This Ken is a Backend Developer. &nbsp;&nbsp;
+            </div>
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I'm a motivated Computer Science and Engineering student that loves
+            backend development and wants to use technology for good. I have an
+            8.55 CGPA and am pursuing a <a className="text-white">Bachelor of Technology in Computer
+            Science and Engineering</a> at the{" "}
+            <a className="text-white" href="https://vit.ac.in/">
+              Vellore Institute of Technology, Vellore.
+            </a>{" "}
+            <br /> <br /> I organise hackathons and teach workshops on Google
+            Cloud, Web Development, and ML as a member of the{" "}
+            <a className="text-white" href="https://dscvit.com/">
+              Google Developer Student Clubs VIT
+            </a>
+            . The CodeChef-VIT Student Chapter and English Literary Association
+            have given me the chance to lead large-scale events. I also
+            volunteered with the Beyond Meds Foundation to raise social
+            awareness. I want to keep learning technology. I excel at teamwork
+            and public speaking. I love using technology to solve complex
+            problems and improve society.
           </p>
           <div className="flex justify-center">
             <a
@@ -29,9 +47,11 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded"
+            width="300"
+            height="300"
+            className="object-cover object-center rounded-full"
             alt="hero"
-            src="./robot-svgrepo-com.svg"
+            src="./AM.jpg"
           />
         </div>
       </div>
