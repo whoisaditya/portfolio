@@ -16,7 +16,7 @@ export default function Contact() {
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
           {contacts.map((contact) => (
-            <div key={contact.name} className="p-2 sm:w-1/3 w-full">
+            <div key={contact.name} className="p-4 sm:w-1/3 w-full">
               <div className="bg-gray-800 rounded flex p-4 h-full items-center">
                 {contact.icon} &nbsp;&nbsp;
                 <a
