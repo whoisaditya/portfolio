@@ -17,13 +17,13 @@ export default function About() {
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
             >
-              Work With Me
+              Contact Me
             </a>
             <a
               href="#projects"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
             >
-              See My Past Work
+              See My Projects
             </a>
           </div>
         </div>
@@ -31,7 +31,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg"
+            src="./robot-svgrepo-com.svg"
           />
         </div>
       </div>
