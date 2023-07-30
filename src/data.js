@@ -166,7 +166,7 @@ export const skills = [
 
 export const contacts = [
   {
-    name: "whoisaditya",
+    name: "GitHub",
     link: "https://github.com/whoisaditya",
     icon: (
       <img
@@ -190,7 +190,7 @@ export const contacts = [
     ),
   },
   {
-    name: "mitraaditya1357",
+    name: "LeetCode",
     link: "https://leetcode.com/mitraaditya1357/",
     icon: (
       <img
@@ -202,7 +202,7 @@ export const contacts = [
     ),
   },
   {
-    name: "@mitraaditya1357",
+    name: "Medium",
     link: "https://mitraaditya1357.medium.com/",
     icon: (
       <img
@@ -214,7 +214,7 @@ export const contacts = [
     ),
   },
   {
-    name: "@whoisaditya7",
+    name: "Twitter",
     link: "https://twitter.com/whoisaditya7",
     icon: (
       <img
@@ -226,7 +226,7 @@ export const contacts = [
     ),
   },
   {
-    name: "mitraaditya1357@gmail.com",
+    name: "Gmail",
     link: "mailto:mitraaditya1357@gmail.com",
     icon: (
       <img
