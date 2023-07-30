@@ -3,7 +3,7 @@ import { contacts } from "../data";
 
 export default function Contact() {
   return (
-    <section id="contact">
+    <section id="contact" className="text-gray-400 bg-gray-900 body-font">
       <div className="container px-10 py-20 mx-auto">
         <div className="text-center mb-20">
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4 ">
