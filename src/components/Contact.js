@@ -11,7 +11,7 @@ export default function Contact() {
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
             Phone: +91 7057648283 <br/> 
-            Email: mitraaditya1357@gmail <br/>
+            Email: mitraaditya1357@gmail.com <br/>
             Feel free to connect with me on any of these platforms :)
           </p>
         </div>
