@@ -6,11 +6,11 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Aditya.
             <br className="hidden lg:inline-block " />{" "}
-            <div className="animate-typing overflow-hidden whitespace-nowrap lg:w-auto">
+            <div className="animate-typing overflow-hidden whitespace-nowrap lg:w-fit">
               This Ken is a Backend Developer. &nbsp;&nbsp;
             </div>
           </h1>
-          <p className="mb-8 leading-relaxed lg:w-auto">
+          <p className="mb-8 leading-relaxed lg:w-fit">
             I'm a motivated Computer Science and Engineering student that loves
             backend development and wants to use technology for good. I have an
             8.55 CGPA and am pursuing a <a className="text-white">Bachelor of Technology in Computer
