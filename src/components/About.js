@@ -6,7 +6,7 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Aditya.
             <br className="hidden lg:inline-block " />{" "}
-            <div className="animate-typing overflow-hidden whitespace-nowrap">
+            <div className="animate-typing overflow-hidden whitespace-nowrap lg:w-auto">
               This Ken is a Backend Developer. &nbsp;&nbsp;
             </div>
           </h1>
