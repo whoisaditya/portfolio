@@ -10,7 +10,7 @@ export default function About() {
               This Ken is a Backend Developer. &nbsp;&nbsp;
             </div>
           </h1>
-          <p className="mb-8 leading-relaxed">
+          <p className="mb-8 leading-relaxed lg:w-auto">
             I'm a motivated Computer Science and Engineering student that loves
             backend development and wants to use technology for good. I have an
             8.55 CGPA and am pursuing a <a className="text-white">Bachelor of Technology in Computer
